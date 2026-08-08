@@ -1,0 +1,27 @@
+# <type>[(scope)]: <short summary, imperative mood, <= 72 chars>
+
+# Why is this change needed? What does it do? (wrap around 72 chars)
+
+# Closes
+
+# --- Allowed types ---
+
+# feat: a new capability for the user
+
+# fix: a bug fix
+
+# docs: documentation only
+
+# style: formatting only, no logic change
+
+# refactor: code change that neither fixes a bug nor adds a feature
+
+# perf: a change that improves performance
+
+# test: adding or correcting tests
+
+# build: build system or dependency changes
+
+# ci: CI configuration changes
+
+# chore: everything else (tooling, config, maintenance)
